@@ -1,6 +1,6 @@
 # hipchat\_notify
 
-A simple plugin to send and HTTP message (via POST) to HipChat
+A simple plugin to send HTTP messages (via POST) to HipChat
 
 # Installation:
 
