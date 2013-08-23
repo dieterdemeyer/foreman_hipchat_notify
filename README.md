@@ -4,9 +4,9 @@ A simple plugin to send HTTP messages (via POST) to HipChat
 
 # Installation:
 
-Add to bundler.d/hipchat\_notify.rb as:
+Add to bundler.d/hipchat_notify.rb as:
 
-    gem 'foreman\_hipchat\_notify', :git => 'https://github.com/dieterdemeyer/foreman\_hipchat\_notify.git'
+    gem 'foreman_hipchat_notify', :git => 'https://github.com/dieterdemeyer/foreman_hipchat_notify.git'
 
 then update & restart Foreman:
 
